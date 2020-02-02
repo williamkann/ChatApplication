@@ -1,0 +1,14 @@
+C:\Users\willi\Documents\Visual Studio 2019\Projects\ChatApplication\ClientGUI\bin\Debug\ClientGUI.exe.config
+C:\Users\willi\Documents\Visual Studio 2019\Projects\ChatApplication\ClientGUI\bin\Debug\ClientGUI.exe
+C:\Users\willi\Documents\Visual Studio 2019\Projects\ChatApplication\ClientGUI\bin\Debug\ClientGUI.pdb
+C:\Users\willi\Documents\Visual Studio 2019\Projects\ChatApplication\ClientGUI\obj\Debug\ClientGUI.csprojAssemblyReference.cache
+C:\Users\willi\Documents\Visual Studio 2019\Projects\ChatApplication\ClientGUI\obj\Debug\ClientGUI.Properties.Resources.resources
+C:\Users\willi\Documents\Visual Studio 2019\Projects\ChatApplication\ClientGUI\obj\Debug\ClientGUI.csproj.GenerateResource.cache
+C:\Users\willi\Documents\Visual Studio 2019\Projects\ChatApplication\ClientGUI\obj\Debug\ClientGUI.exe
+C:\Users\willi\Documents\Visual Studio 2019\Projects\ChatApplication\ClientGUI\obj\Debug\ClientGUI.pdb
+C:\Users\willi\Documents\Visual Studio 2019\Projects\ChatApplication\ClientGUI\obj\Debug\ClientGUI.LoginForm.resources
+C:\Users\willi\Documents\Visual Studio 2019\Projects\ChatApplication\ClientGUI\bin\Debug\Communication.dll
+C:\Users\willi\Documents\Visual Studio 2019\Projects\ChatApplication\ClientGUI\bin\Debug\Communication.pdb
+C:\Users\willi\Documents\Visual Studio 2019\Projects\ChatApplication\ClientGUI\bin\Debug\Communication.dll.config
+C:\Users\willi\Documents\Visual Studio 2019\Projects\ChatApplication\ClientGUI\obj\Debug\ClientGUI.csproj.CopyComplete
+C:\Users\willi\Documents\Visual Studio 2019\Projects\ChatApplication\ClientGUI\obj\Debug\ClientGUI.MainPage.resources

@@ -1,0 +1,10 @@
+C:\Users\willi\Documents\Visual Studio 2019\Projects\ChatApplication\ChatApplicationGUI\bin\Debug\ChatApplicationGUI.exe.config
+C:\Users\willi\Documents\Visual Studio 2019\Projects\ChatApplication\ChatApplicationGUI\bin\Debug\ChatApplicationGUI.exe
+C:\Users\willi\Documents\Visual Studio 2019\Projects\ChatApplication\ChatApplicationGUI\bin\Debug\ChatApplicationGUI.pdb
+C:\Users\willi\Documents\Visual Studio 2019\Projects\ChatApplication\ChatApplicationGUI\bin\Debug\Communication.dll
+C:\Users\willi\Documents\Visual Studio 2019\Projects\ChatApplication\ChatApplicationGUI\bin\Debug\Communication.pdb
+C:\Users\willi\Documents\Visual Studio 2019\Projects\ChatApplication\ChatApplicationGUI\bin\Debug\Communication.dll.config
+C:\Users\willi\Documents\Visual Studio 2019\Projects\ChatApplication\ChatApplicationGUI\obj\Debug\ChatApplicationGUI.csproj.CopyComplete
+C:\Users\willi\Documents\Visual Studio 2019\Projects\ChatApplication\ChatApplicationGUI\obj\Debug\ChatApplicationGUI.exe
+C:\Users\willi\Documents\Visual Studio 2019\Projects\ChatApplication\ChatApplicationGUI\obj\Debug\ChatApplicationGUI.pdb
+C:\Users\willi\Documents\Visual Studio 2019\Projects\ChatApplication\ChatApplicationGUI\obj\Debug\ChatApplicationGUI.csprojAssemblyReference.cache
